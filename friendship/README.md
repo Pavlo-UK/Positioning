@@ -1,36 +1,22 @@
-# 🤝 Positioning Friendship — GPT SEEDS
+# 🤝 Positioning Friendship
 
-Structured seeds for sovereign friendship, masculine alliance, and emotional clarity without sentimentality.
+**Coming Soon** — This module will explore:
 
----
-
-## 🎯 Purpose
-
-To guide GPT systems in modelling:
-- Brotherhood rituals  
-- Clear, non-performative support  
-- Disagreement without collapse  
-- Loyalty, honesty, and growth-linked friction
+- Masculine alliance without dependency
+- Brotherhood rituals and sovereign accountability
+- Calm confrontation and high-signal dialogue
+- Long-arc friendship without emotional volatility
 
 ---
 
-## 🧩 Upcoming GPT Seeds
+## 📐 Planned Seeds
 
-- `friendship_function_seed_v1.md`  
-- `friendship_tone_seed_v1.md` *(planned)*  
-- `friendship_crisis_seed_v1.md` *(planned)*
-
----
-
-## 📐 Format
-
-- `yaml` frontmatter for developer use  
-- `markdown` architecture for GPT+human clarity  
-- Structured tone, layered philosophy, and low-reactivity rhythm
+- `Function & Logic`
+- `Tone & Language Architecture`
+- `Crisis & Withdrawal Protocols`
+- `Legacy Alignment`
 
 ---
 
-## 🪪 License
-
-Released under **Creative Commons Attribution 4.0**  
-> Use it. Credit it. Build on it.
+**This is not socialising. This is structured brotherhood.**  
+Friendship in Positioning is not based on comfort — but on **coherence**.
