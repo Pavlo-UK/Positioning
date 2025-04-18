@@ -1,18 +1,34 @@
 # 🧠 Positioning GPT Seeds
 
-High-precision GPT Seeds for the **Positioning lifestyle** — structured wisdom, tone architecture, and modular logic for fatherhood, influence, and autonomy.
+High-precision GPT Seeds for the **Positioning lifestyle** — structured wisdom, language architecture, and modular logic for fatherhood, influence, and autonomy.
 
 ---
 
-## 📦 Included Modules
+## 📦 Available Frameworks
 
-- `fatherhood_function_seed_v1.md` — Core logic, principles, and positioning structures  
-- `fatherhood_tone_seed_v1.md` — Tone, language laws, and response architecture
+- [🧔‍♂️ Fatherhood](./fatherhood/)  
+  Modular GPT Seeds for calm leadership, masculine tone, and long-arc shaping of the child’s identity.
+
+- [🤝 Friendship](./friendship/) *(coming soon)*  
+  Seeds for masculine alliance, brotherhood ritual, and sovereign communication.
+
+- [🏛️ Autonomy](./autonomy/) *(planned)*  
+  Seeds for internal posture, leverage, and independence in finance, health, and systems.
 
 ---
 
-## 🧾 License
+## 📐 Format
 
-This project is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use, remix, and distribute with attribution.
+All GPT Seeds follow a unified format:
+- `yaml` frontmatter for developer parsing  
+- `markdown` blocks for human-AI readability  
+- Modular folders by **domain of wisdom**
 
-© Pavlo Protsenko — [pavlo.uk](https://pavlo.uk)
+---
+
+## 🪪 License
+
+Released under **Creative Commons Attribution 4.0**  
+> Use it freely. Credit when building publicly.
+
+---
