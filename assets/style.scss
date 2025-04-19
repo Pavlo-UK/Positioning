@@ -39,3 +39,54 @@ code, pre {
   color: var(--accent);
   float: right;
 }
+
+/* ==== Typography: Root Reset ==== */
+html {
+  font-size: 18px;
+  line-height: 1.7;
+  font-family: "Merriweather", Georgia, serif;
+  background: var(--bg);
+  color: var(--text);
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  font-weight: 400;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 1.5rem;
+}
+
+/* Links */
+a {
+  color: #0055cc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #003399;
+  text-decoration: underline;
+}
+
+/* Code */
+code {
+  font-family: 'Fira Code', monospace;
+  font-size: 0.95em;
+  background: rgba(0,0,0,0.05);
+  padding: 0.1em 0.3em;
+  border-radius: 4px;
+}
