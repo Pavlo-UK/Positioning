@@ -4,3 +4,5 @@ description: "A developer-grade seed for generating consistent, structured GPTs 
 layout: default
 permalink: /standard-gpt-seed/
 ---
+
+<a href="/assets/standard-gpt-seed.md" download>📄 Download GPT Seed</a>
