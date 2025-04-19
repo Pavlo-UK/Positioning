@@ -6,5 +6,10 @@ permalink: /fatherhood/
 
 # 🛡️ Fatherhood
 
-Your calm edge. Identity shaping. Masculine tone.  
-Teach by posture. Protect by example. Lead by stillness.
+Calm guidance. Masculine tone. Identity shaping.
+
+> Fatherhood begins with who you are — not what you say. This module trains masculine presence as structure, signal, and inheritance.
+
+- Set frames through posture, not argument
+- Lead boys into men through embodied example
+- Balance tenderness with principled sharpness
