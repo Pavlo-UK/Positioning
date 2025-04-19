@@ -12,4 +12,5 @@ collections:
     output: true
     permalink: /:path/
 include:
-   - assets/img/og-cover.jpg
+  - og-cover.jpg
+
