@@ -5,3 +5,5 @@ baseurl: "" # keep blank for root deployment
 theme: null
 plugins: []
 markdown: kramdown
+sass:
+  style: compressed
