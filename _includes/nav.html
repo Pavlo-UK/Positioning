@@ -1,15 +1,13 @@
-<nav style="text-align:center; margin: 2rem 0;">
-  {% for item in site.data.nav %}
-    <a href="{{ item.url }}" style="margin: 0 1rem;">{{ item.title }}</a>
-  {% endfor %}
-   <button id="theme-toggle" aria-label="Toggle Dark Mode">🌓</button>
- 
-  <ul style="display:flex; gap:1.5rem; padding:1rem 2rem; font-weight:500;">
-    <li><a href="/">Home</a></li>
-    <li><a href="/fatherhood/">Fatherhood</a></li>
-    <li><a href="/friendship/">Friendship</a></li>
-    <li><a href="/autonomy/">Autonomy</a></li>
-    <li><a href="/tools/fatherhood-gpt.html">GPT Tool</a></li>
-  </ul>
+<nav style="display: flex; justify-content: space-between; align-items: center; padding: 1rem 2rem; font-weight: 500; border-bottom: 1px solid #e5e5e5;">
+  <div style="display: flex; gap: 1.5rem;">
+    <a href="/">Home</a>
+    <a href="/fatherhood/">Fatherhood</a>
+    <a href="/friendship/">Friendship</a>
+    <a href="/autonomy/">Autonomy</a>
+    <a href="/tools/fatherhood-gpt.html">GPT Tool</a>
+  </div>
 
+  <button id="theme-toggle" aria-label="Toggle Dark Mode" style="background: none; border: none; font-size: 1.2rem; cursor: pointer;">
+    🌓
+  </button>
 </nav>
