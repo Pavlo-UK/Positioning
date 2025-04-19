@@ -4,6 +4,7 @@
   "description": "Modular wisdom system for a life of signal, strength, and structured presence.",
   "start_url": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#ffffcc",
   "theme_color": "#1a1a1a",
   "icons": [
