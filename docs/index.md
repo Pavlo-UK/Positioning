@@ -1,9 +1,15 @@
 # 🧠 Positioning
 
+> 📡 Now hosted at [www.pavlo.uk](https://www.pavlo.uk)  
+> Optimized for AI tools, GPT modules, and coaching interfaces.
+
 Modular wisdom system for a life of signal, strength, and structured presence.
+
 
 > Built by Pavlo Protsenko  
 > https://pavlo.uk
+> All Positioning Seeds are now hosted at [www.pavlo.uk](https://www.pavlo.uk)  
+> This ensures optimal compatibility across tools and AI modules.
 
 ---
 
