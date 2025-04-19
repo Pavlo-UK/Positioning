@@ -1,6 +1,6 @@
 ---
-title: "📖 Chapter 11 — Strategic Silence"
 layout: default
+title: "📖 Chapter 11 — Strategic Silence"
 permalink: /ebook/ch11-strategic-silence/
 ---
 
