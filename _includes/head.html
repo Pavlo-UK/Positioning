@@ -1,57 +1,32 @@
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ page.title | default: site.title }}</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Styles -->
-<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Merriweather&display=swap" rel="stylesheet">
+<title>{{ page.title }} | {{ site.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
-<!-- Canonical & Author -->
-<link rel="canonical" href="https://pavlo.uk/" />
-<link rel="author" href="https://pavlo.uk/humans.txt" type="text/plain" />
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-32x32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+<link rel="manifest" href="{{ site.baseurl }}/site.webmanifest">
 
-<!-- Metadata -->
-<meta name="description" content="{{ site.description }}">
-<meta name="author" content="Pavlo Protsenko" />
-<meta name="robots" content="index, follow">
-<meta name="theme-color" content="#fdfbe0">
-<meta name="color-scheme" content="light dark">
-<meta name="keywords" content="Positioning, GPT Seeds, modular wisdom, clarity, fatherhood, autonomy, personal development">
+<!-- Theme -->
+<meta name="theme-color" content="#000000">
 
-<!-- Open Graph / Twitter -->
+<!-- Open Graph -->
 <meta property="og:title" content="{{ page.title | default: site.title }}">
-<meta property="og:description" content="{{ site.description }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://pavlo.uk/">
-<meta property="og:image" content="https://www.pavlo.uk/og-cover.jpg">
-<meta property="og:image:alt" content="Positioning by Pavlo Protsenko">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/og-cover.jpg">
 
+<!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ page.title | default: site.title }}">
-<meta name="twitter:description" content="{{ site.description }}">
-<meta name="twitter:image" content="https://www.pavlo.uk/og-cover.jpg">
+<meta name="twitter:description" content="{{ page.description | default: site.description }}">
+<meta name="twitter:image" content="{{ site.url }}/og-cover.jpg">
 
-<!-- Icons -->
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
-<link rel="icon" type="image/png" sizes="512x512" href="/android-chrome-512x512.png">
-<link rel="manifest" href="/site.webmanifest">
-
-<!-- Schema.org JSON-LD -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Pavlo Protsenko",
-  "url": "https://pavlo.uk",
-  "jobTitle": "Strategic Positioning Architect",
-  "description": "Creator of the Positioning GPT Seed System for clarity, strength, and signal.",
-  "image": "https://www.pavlo.uk/og-cover.jpg"
-}
-</script>
-
-<!-- Browser Freshness -->
+<!-- Force freshness -->
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">
