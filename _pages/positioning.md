@@ -5,7 +5,8 @@ permalink: /positioning/
 description: "A posture-based philosophy authored by Pavlo — forged under fire, built for legacy."
 ---
 
-{% include hero.html title="🧱 The Positioning Framework" subtitle="A Discipline of Posture-Based Living" %}
+# 🧱 The Positioning Framework  
+*A Discipline of Posture-Based Living*
 
 ---
 
