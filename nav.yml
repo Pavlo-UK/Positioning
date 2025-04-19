@@ -11,6 +11,8 @@ main:
     url: "/modules/"
   - title: "GPT Spec"
     url: "/gpt-spec/"
+  - title: "Ebook"
+    url: "/ebook/"
   - title: "Fatherhood"
     url: "/fatherhood/"
   - title: "Friendship"
