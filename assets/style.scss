@@ -2,3 +2,40 @@
 ---
 
 @import "../_sass/custom";
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --accent: #0057a3;
+  --code-bg: #f4f4f4;
+}
+
+[data-theme='dark'] {
+  --bg: #0e0e0e;
+  --text: #e5e5e5;
+  --accent: #66b2ff;
+  --code-bg: #1a1a1a;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--accent);
+}
+
+code, pre {
+  background-color: var(--code-bg);
+}
+
+#theme-toggle {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0.5em;
+  color: var(--accent);
+  float: right;
+}
