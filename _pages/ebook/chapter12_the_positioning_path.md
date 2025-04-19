@@ -1,6 +1,6 @@
 ---
-title: "📖 Chapter 12 — The Positioning Path"
 layout: default
+title: "📖 Chapter 12 — The Positioning Path"
 permalink: /ebook/ch12-the-positioning-path/
 ---
 
