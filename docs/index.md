@@ -1,3 +1,8 @@
+---
+layout: default
+title: Positioning
+---
+
 # 🧠 Positioning
 
 > 📡 Now hosted at [www.pavlo.uk](https://www.pavlo.uk)  
