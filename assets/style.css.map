@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../_sass/custom.scss"],"names":[],"mappings":"AAAA,KACE,kCACA,WACA,gBACA,sBACA,SACA,UAGF,OACE,cACA","sourcesContent":["body {\n  font-family: 'Segoe UI', sans-serif;\n  color: #111;\n  line-height: 1.6;\n  background-color: #fff;\n  margin: 0;\n  padding: 0;\n}\n\nfooter {\n  color: #8b0000;\n  font-size: 0.9rem;\n}\n"],"file":"style.css"}
