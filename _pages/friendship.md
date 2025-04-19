@@ -4,25 +4,12 @@ title: Friendship
 permalink: /friendship/
 ---
 
-# 🤝 Positioning Friendship
+# 🧭 Friendship
 
-**Coming Soon** — This module will explore:
+Brotherhood. Alliance. Communication.
 
-- Masculine alliance without dependency
-- Brotherhood rituals and sovereign accountability
-- Calm confrontation and high-signal dialogue
-- Long-arc friendship without emotional volatility
+> Friendship as intelligent alliance. Rooted in shared values, tested in adversity, scaled through aligned missions.
 
----
-
-## 📐 Planned Seeds
-
-- `Function & Logic`
-- `Tone & Language Architecture`
-- `Crisis & Withdrawal Protocols`
-- `Legacy Alignment`
-
----
-
-**This is not socialising. This is structured brotherhood.**  
-Friendship in Positioning is not based on comfort — but on **coherence**.
+- Filter your circle by mission, not mood
+- Communicate with clarity, loyalty, and directness
+- Form alliances that compound legacy
