@@ -26,6 +26,13 @@ All GPT Seeds follow a unified format:
 
 ---
 
+## 🧩 Prompt Standards
+
+- [v1.1 – Active](./POSITIONING_GPT_SEED_PROMPT_v1.1.md)  
+- [v1.0 – Archived](./POSITIONING_GPT_SEED_PROMPT.md)
+
+---
+
 ## 🪪 License
 
 Released under **Creative Commons Attribution 4.0**  
