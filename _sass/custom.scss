@@ -1,4 +1,13 @@
----
----
+body {
+  font-family: 'Segoe UI', sans-serif;
+  color: #111;
+  line-height: 1.6;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
 
-@import "../_sass/custom";
+footer {
+  color: #8b0000;
+  font-size: 0.9rem;
+}
