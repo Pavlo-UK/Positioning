@@ -13,4 +13,5 @@ collections:
     permalink: /:path/
 include:
   - og-cover.jpg
-
+  - robots.txt
+  - keybase.txt
