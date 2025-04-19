@@ -1,11 +1,11 @@
 ---
-title: "📖 Chapter 2 — Posture Over Noise"
 layout: default
+title: "📖 Chapter 2 — Posture Over Noise"
 permalink: /ebook/ch2-posture-over-noise/
 ---
 
 # 📖 Chapter 2 — Posture Over Noise  
-_The first law of Positioning._
+_The first law of Positioning: Your stance teaches more than your words._
 
 ---
 
