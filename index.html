@@ -21,6 +21,7 @@
 
   </head>
   <body>
+    <div class="container">
     <nav style="text-align:center; margin: 2rem 0;">
   
     <a href="/" style="margin: 0 1rem;">Home</a>
@@ -85,7 +86,8 @@ Use it freely. Credit when building publicly.</p>
   </p>
 </footer>
 
-    <script>
+    </div>
+      <script>
   const toggle = document.getElementById('theme-toggle');
   const html = document.documentElement;
   const saved = localStorage.getItem('theme');
@@ -96,13 +98,13 @@ Use it freely. Credit when building publicly.</p>
     html.setAttribute('data-theme', current);
     localStorage.setItem('theme', current);
   });
-</script>
-    <script>
+      </script>
+      <script>
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/service-worker.js')
       .then(reg => console.log('Service worker registered ✅'))
       .catch(err => console.warn('Service worker registration failed', err));
   }
-</script>
+      </script>
   </body>
 </html>
