@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Manifesto"
+    url: "/manifesto/"
+  - title: "Fatherhood"
+    url: "/fatherhood/"
+  - title: "Friendship"
+    url: "/friendship/"
+  - title: "Autonomy"
+    url: "/autonomy/"
