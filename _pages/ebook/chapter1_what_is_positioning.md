@@ -1,12 +1,13 @@
 ---
-title: "📖 Chapter 1 — What Positioning Is"
 layout: default
+title: "📖 Chapter 1 — What Positioning Is"
 permalink: /ebook/ch1-what-positioning-is/
 ---
 
 # 📖 Chapter 1 — What Positioning Is  
-_Author: Pavlo Protsenko_  
+_Positioning is the architecture of posture under pressure._
 _A discipline not adopted, but forged._
+_Author: Pavlo Protsenko_  
 
 ---
 
