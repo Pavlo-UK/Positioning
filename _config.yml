@@ -7,3 +7,7 @@ plugins: []
 markdown: kramdown
 sass:
   style: compressed
+collections:
+  pages:
+    output: true
+    permalink: /:path/
