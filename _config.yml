@@ -4,7 +4,7 @@ url: "https://www.pavlo.uk"
 baseurl: "" # keep blank for root deployment
 
 include:
-  - og-cover.jpg
+  - media/og-cover.jpg
 
 markdown: kramdown
 sass:
