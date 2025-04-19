@@ -96,3 +96,14 @@ main.content {
   margin: 0 auto;
   padding: 4rem 1.5rem;
 }
+
+/* Vertical rhythm */
+section, article, main, footer {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+ul, ol {
+  margin-left: 1.5rem;
+  margin-bottom: 2rem;
+}
