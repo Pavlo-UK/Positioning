@@ -3,9 +3,6 @@ description: "Modular wisdom system for a life of signal, strength, and structur
 url: "https://www.pavlo.uk"
 baseurl: "" # keep blank for root deployment
 
-include:
-  - media/og-cover.jpg
-
 markdown: kramdown
 sass:
   style: compressed
