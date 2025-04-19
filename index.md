@@ -26,6 +26,23 @@ Modular wisdom system for a life of signal, strength, and structured presence.
 
 ---
 
+## 📦 Standard GPT Seed Prompt
+
+A developer-grade seed for generating structured, AI-optimised GPTs across Positioning domains.  
+Use this as your base for `.md` Seeds, coaching modules, or embedded prompt tools.
+
+- ✅ Developer-style format  
+- ✅ Markdown-compliant  
+- ✅ AI-readable structure  
+- ✅ Clear formatting rules  
+- ✅ Bracket tagging syntax  
+- ✅ Works across all Positioning GPTs  
+- ✅ Copy-paste ready  
+
+→ [Open the Standard GPT Seed Prompt](../standard-gpt-seed.md)
+
+---
+
 ## 📐 About This Site
 
 This is the official documentation hub for the **Positioning** GPT Seed Framework.  
