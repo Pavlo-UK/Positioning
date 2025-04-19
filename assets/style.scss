@@ -30,6 +30,7 @@ a {
   color: var(--accent);
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }
@@ -43,14 +44,6 @@ nav {
   gap: 1.5rem;
   margin: 2rem 0;
   font-weight: 500;
-}
-
-/* THEME TOGGLE */
-#theme-toggle {
-  background: none;
-  border: none;
-  font-size: 1.5rem;
-  cursor: pointer;
 }
 
 /* FOOTER */
