@@ -2,6 +2,7 @@ title: "Positioning"
 description: "Modular wisdom system for a life of signal, strength, and structured presence."
 url: "https://www.pavlo.uk"
 baseurl: ""
+permalink: pretty
 
 theme: null
 markdown: kramdown
