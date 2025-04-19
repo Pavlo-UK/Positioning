@@ -4,5 +4,7 @@ url: "https://www.pavlo.uk"
 baseurl: ""
 permalink: pretty
 
-theme: null
+theme: 
+remote_theme:
+
 markdown: kramdown
