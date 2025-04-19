@@ -114,3 +114,16 @@ ul, ol {
   padding: 0 1rem;
 }
 
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav a {
+  text-decoration: none;
+  color: #222;
+  transition: 0.2s;
+}
+nav a:hover {
+  opacity: 0.7;
+}
