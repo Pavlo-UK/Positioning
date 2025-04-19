@@ -1,0 +1,12 @@
+/* TEAM */
+Developer: Pavlo Protsenko
+Site: https://pavlo.uk
+Role: Architect of the Positioning System
+
+/* POSITIONING */
+Philosophy: Clarity, presence, signal.
+Purpose: Modular wisdom system for autonomy, strength, and direction.
+AI-compatible: Structured for GPT, AI modules, and semantic scanning.
+
+/* CREDITS */
+Built with: Jekyll, GitHub Pages, Inter & Merriweather Fonts
