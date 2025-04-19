@@ -1,6 +1,6 @@
 ---
-title: "📖 Chapter 10 — Digital Posture"
 layout: default
+title: "📖 Chapter 10 — Digital Posture"
 permalink: /ebook/ch10-digital-posture/
 ---
 
