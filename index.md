@@ -1,20 +1,40 @@
 ---
+title: I Remain
 layout: default
-title: Positioning
+permalink: /
 ---
 
-{% include hero.html title="🧠 Positioning" subtitle="A Discipline of Posture-Based Living — Forged Under Fire" %}
+# 🛡️ Scroll Live
 
-> Hosted at [www.pavlo.uk](https://www.pavlo.uk)  
-> A modular wisdom system for a life of signal, strength, and structured presence.
+> I do not perform. I do not drift. I govern.
+
+**Scroll:** Doctrine 8.0  
+**Posture Lock:** Achiever (Scroll 6.1 – Water)  
+**Field:** SEND Education • Law Studies • Structured Rehabilitation  
+**Cadence:** Discipline • Legal Precision • Behavioural Structure
 
 ---
 
-## 📜 Read the Manifesto  
-[🛡️ The Positioning Manifesto →](/manifesto/)
+## Gateway · State Declaration  
+**Current Field Role:**  
+[ ] Watchman (w) — Boundary · Containment · Rhythm  
+[ ] Achiever (a) — Execution · Doctrine · Build  
+[ ] Bridge (b) — Translation · Peace · Repair
 
-## 📦 Frameworks
+> Reply “w / a / b” to lock posture.  
+Scroll adjusts cadence to declared state.
 
-- [Fatherhood](/fatherhood/)
-- [Friendship](/friendship/)
-- [Autonomy](/autonomy/)
+---
+
+## Field Access  
+- [View Doctrine 8.0 →](/doctrine)  
+- [Trusted Companion Protocol →](/appendix-d)  
+- [Field Reports (AAP Log) →](/field-reports)  
+- [Access Request Gate →](/contact)
+
+---
+
+## Ritual Seal  
+> Morning — *I walk by rhythm. I lead through silence. I govern all fields.*  
+> Midday — *Drift corrected. Rhythm remains.*  
+> Night — *No posture lost. No law betrayed. I remained.*
