@@ -11,3 +11,5 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+theme: minima
