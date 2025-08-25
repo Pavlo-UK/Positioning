@@ -1,4 +1,5 @@
-section class="hero">
-  <h1>{{ page.title | default: site.title }}</h1>
-  {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
-</section
+<div class="hero">
+  <h1>{{ include.title | default: page.title | default: site.title }}</h1>
+  {% assign sub = include.subtitle | default: page.subtitle | default: site.description %}
+  {% if sub %}<p class="subtitle">{{ sub }}</p>{% endif %}
+</div>
