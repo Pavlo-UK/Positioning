@@ -12,4 +12,10 @@ collections:
     output: true
     permalink: /:path/
 
+# keep your existing settings above…
+exclude:
+  - _pages/
+  - archive/
+  - node_modules/
+
 theme: minima
