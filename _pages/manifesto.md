@@ -4,7 +4,7 @@ title: Manifesto
 permalink: /manifesto/
 ---
 
-{% include hero.html title="Manifesto" subtitle="Positioning > noise" %}
+{% include hero.html title=page.title subtitle=page.subtitle %}
 
 ## I. The Origin
 
