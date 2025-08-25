@@ -5,7 +5,7 @@ permalink: /manifesto/
 description: "Posture-based philosophy forged under fire by Pavlo — rooted in clarity, rhythm, and sovereign masculinity."
 ---
 
-{% include hero.html title="🛡️ Positioning Manifesto" subtitle="A Philosophy Forged Under Fire — By Pavlo" %}
+{% include hero.html title="Manifesto" subtitle="Clarity. Rhythm. Presence." %}
 
 ## I. The Origin
 
