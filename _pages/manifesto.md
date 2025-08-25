@@ -1,11 +1,10 @@
 ---
-layout: default
-title: "🛡️ Positioning Manifesto"
+layout: page
+title: Manifesto
 permalink: /manifesto/
-description: "Posture-based philosophy forged under fire by Pavlo — rooted in clarity, rhythm, and sovereign masculinity."
 ---
 
-{% include hero.html title="Manifesto" subtitle="Clarity. Rhythm. Presence." %}
+{% include hero.html title="Manifesto" subtitle="Positioning > noise" %}
 
 ## I. The Origin
 
