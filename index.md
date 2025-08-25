@@ -1,4 +1,11 @@
 ---
+title: Identity OS
+layout: default
+permalink: /identity-os/
+---
+
+
+---
 title: I Remain
 layout: default
 permalink: /
