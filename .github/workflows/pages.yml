@@ -1,4 +1,4 @@
-  name: Deploy Jekyll to Pages
+name: Deploy Jekyll to Pages
 
 on:
   push:
@@ -11,29 +11,28 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: "pages"
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Debug: list includes
+        run: |
+          echo "PWD:"
+          pwd
+          echo "Root listing:"
+          ls -la
+          echo "---- _includes ----"
+          ls -la _includes || true
+      - uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./_site
+      - uses: actions/upload-pages-artifact@v3
 
   deploy:
     needs: build
@@ -42,6 +41,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4
