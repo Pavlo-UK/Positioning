@@ -18,9 +18,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
-      - name: Debug: list includes
+      - name: Debug list includes
         run: |
           echo "PWD:"
           pwd
