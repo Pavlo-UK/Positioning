@@ -1,5 +1,6 @@
 # 🧠 Positioning GPT Seeds
 
+
 > 📡 Now hosted at [www.pavlo.uk](https://www.pavlo.uk)  
 > Optimized for AI tools, GPT modules, and coaching interfaces.
 
