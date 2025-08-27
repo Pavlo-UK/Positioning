@@ -1,4 +1,4 @@
-name: Deploy Jekyll to Pages
+  name: Deploy Jekyll to Pages
 
 on:
   push:
@@ -11,30 +11,29 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - name: Debug list includes
-        run: |
-          echo "PWD:"
-          pwd
-          echo "Root listing:"
-          ls -la
-          echo "---- _includes ----"
-          ls -la _includes || true
-      # Build Jekyll without needing a Gemfile in the repo
-      - uses: actions/jekyll-build-pages@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
-      - uses: actions/upload-pages-artifact@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
 
   deploy:
     needs: build
@@ -43,5 +42,6 @@ steps:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
